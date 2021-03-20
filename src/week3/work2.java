@@ -7,7 +7,6 @@ public class work2 {
 
 	public static void main(String args[]) {
 		int choose = menu();
-		int Sum;
 		while (true) {
 			if (choose == 0) {
 				System.out.println("Thranks!");
