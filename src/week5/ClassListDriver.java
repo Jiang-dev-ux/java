@@ -16,8 +16,7 @@ public class ClassListDriver {
 			switch(choose) {
 			case 1: Create();break;
 			case 2: Print();break;
-			default:System.out.print("Error!Enter again:");
-			choose = scan.nextInt();
+			default:System.out.print("Error!Enter again:");break;
 			}
 		}
 		
